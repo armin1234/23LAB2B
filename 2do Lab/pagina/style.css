@@ -1,0 +1,14 @@
+.container {
+width: 100%;
+heigth: 0 auto;
+background: black;
+color; black;
+}
+
+.espacio: hover{
+background: gray;
+color: white;
+}
+body {
+  background-image: url("images/bg-img-1.jpg");
+}
